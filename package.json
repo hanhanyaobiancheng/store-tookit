@@ -1,0 +1,15 @@
+{
+  "name": "store-tookit",
+  "version": "0.0.7",
+  "description": "A tookit about react and js...",
+  "author": "linhan",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hanhanyaobiancheng/store-tookit.git"
+  },
+  "dependencies": {
+    "antd": "^3.10.4",
+    "docdash": "^0.4.0",
+    "jsdoc": "^3.4.3"
+  }
+}

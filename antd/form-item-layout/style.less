@@ -1,0 +1,25 @@
+.form-item-layout-justify-label {
+    :global .ant-form-item-label {
+        white-space:normal!important;
+    }
+
+    :global .ant-form-item-label label:after{
+        top:-4px!important;
+    }
+
+    :global .ant-form-item-required:before{
+        position: relative;
+        top: -4.5px;
+    }
+}
+
+.label-in-form-item-justify {
+    text-align: justify;
+    display: inline-block;
+    overflow: hidden;
+}
+
+.label-in-form-item-empty-justSpan {
+    display: inline-block ;
+    padding-left: 100%;
+}
