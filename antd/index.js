@@ -1,3 +1,5 @@
+import SortTable from "./sort-table/TableSort";
+
 export * as FormUtil from './form-util/FormUtils';
 export EditableCell from './editable-cell/EditableCell';
 export FontIcon from './font-icon/FontIcon';
@@ -22,3 +24,4 @@ export PopPrompt from './pop-prompt/PopPrompt';
 export ToolItem from './tool-item/ToolItem';
 export Modal from './modal/Modal';
 export SortTitle from './sort-column-title/SortTitle';
+export SortTable from './sort-table/TableSort';
